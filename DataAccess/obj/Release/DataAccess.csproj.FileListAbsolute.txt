@@ -1,0 +1,46 @@
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\MySql.Data.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Google.Protobuf.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Zstandard.Net.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Renci.SshNet.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\System.Buffers.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\MySql.Data.xml
+C:\Users\SONIC\Desktop\butt\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+C:\Users\SONIC\Desktop\butt\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SONIC\Desktop\butt\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+C:\Users\SONIC\Desktop\butt\DataAccess\obj\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\obj\Release\DataAccess.pdb
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Newtonsoft.Json.dll
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Newtonsoft.Json.xml
+C:\Users\SONIC\Desktop\butt\DataAccess\bin\Release\Renci.SshNet.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Common.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\MySql.Data.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Newtonsoft.Json.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Renci.SshNet.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Google.Protobuf.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Zstandard.Net.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\System.Buffers.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Common.pdb
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\MySql.Data.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Newtonsoft.Json.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\bin\Release\Renci.SshNet.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\obj\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\DataAccess\obj\Release\DataAccess.pdb

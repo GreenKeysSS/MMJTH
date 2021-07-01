@@ -1,0 +1,12 @@
+Document doc = new Document (PageSize.Letter);
+FileStream file  = new FileStream("hold_mundo.pdf",FileMode.OpenCreate,FileAccess.ReadWrite);
+PdfWriter writer = PdfWriter.GetInstance(doc,file);
+//doc.AddAuthor("");
+doc.AddTitle("Hola Mundo");
+doc.Open();
+doc.Add(new Phrase("Hola Mundo"));
+writer.Close();
+doc.Close();
+file.Dispose();
+var pdf = new FileStream("hola_mundo.pdf",FileMode.Open,FileAccess.Read);
+return File(pdf,"application/pdf");

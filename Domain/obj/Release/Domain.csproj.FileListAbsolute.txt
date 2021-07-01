@@ -1,0 +1,48 @@
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Domain.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Domain.pdb
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\MySql.Data.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Google.Protobuf.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Zstandard.Net.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Renci.SshNet.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\System.Buffers.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\DataAccess.pdb
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\MySql.Data.xml
+C:\Users\SONIC\Desktop\butt\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+C:\Users\SONIC\Desktop\butt\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONIC\Desktop\butt\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\SONIC\Desktop\butt\Domain\obj\Release\Domain.dll
+C:\Users\SONIC\Desktop\butt\Domain\obj\Release\Domain.pdb
+C:\Users\SONIC\Desktop\butt\Domain\bin\Release\Renci.SshNet.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Domain.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Domain.pdb
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Common.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\DataAccess.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\MySql.Data.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Google.Protobuf.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Zstandard.Net.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Renci.SshNet.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\System.Buffers.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Common.pdb
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\DataAccess.pdb
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Newtonsoft.Json.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\MySql.Data.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\bin\Release\Renci.SshNet.xml
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\obj\Release\Domain.dll
+C:\Users\SONIC\Desktop\MINIMARKET JANET\MMJanetTPV\Domain\obj\Release\Domain.pdb
