@@ -625,7 +625,7 @@ namespace Presentation
             
             try
             {
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles";
+                string path = Main.actualuser + "\\TPVFiles";
 
                 DirectoryInfo di = Directory.CreateDirectory(path);
 
@@ -666,7 +666,7 @@ namespace Presentation
 
             try
             {
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles";
+                string path = Main.actualuser + "\\TPVFiles";
 
                 DirectoryInfo di = Directory.CreateDirectory(path);
 
@@ -961,7 +961,7 @@ namespace Presentation
                 string user = Convert.ToString(row.Cells[1].Value) + " " + Convert.ToString(row.Cells[2].Value);
                 string turn = Convert.ToString(row.Cells[3].Value);
 
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".pdf";
+                string path =  Main.actualuser + "\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".pdf";
 
                 Console.WriteLine(path);
 
@@ -988,13 +988,13 @@ namespace Presentation
                 string user = Convert.ToString(row.Cells[1].Value) + " " + Convert.ToString(row.Cells[2].Value);
                 string turn = Convert.ToString(row.Cells[3].Value);
 
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".txt";
+                string path =  Main.actualuser + "\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".txt";
 
                 Console.WriteLine(path);
 
                 if (File.Exists(path))
                 {
-                    string cc = File.ReadAllText("C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".txt");
+                    string cc = File.ReadAllText(Main.actualuser + "\\TPVFiles\\" + "CierreCaja" + datedtp.Value.ToString("yyyyMMdd") + user + turn + ".txt");
 
                     CreateTicket ticket = new CreateTicket();
 

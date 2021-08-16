@@ -24,7 +24,7 @@ namespace Presentation
     public partial class Main : Form
     {
         public bool dtotype;
-        public static string actualuser = Environment.UserName;
+        public static string actualuser = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         public static bool buyway = false;
         public static int cajanumber;
         public static string storename; //"MINIMARKET JANETH";
@@ -1877,7 +1877,7 @@ namespace Presentation
 
             try
             {
-                string path = "C:\\Users\\" + actualuser + "\\Documents\\TPVFiles";
+                string path =  actualuser + "\\TPVFiles";
 
                 DirectoryInfo di = Directory.CreateDirectory(path);
 
@@ -2229,7 +2229,7 @@ namespace Presentation
         private void WriteJSONToFile(string data, string filename)
         {
 
-            string path = "C:\\Users\\" + actualuser + "\\Documents\\TPVFiles";
+            string path =  actualuser + "\\TPVFiles";
 
             DirectoryInfo di = Directory.CreateDirectory(path);
 
@@ -3734,7 +3734,7 @@ namespace Presentation
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Documento de Excel (*.xlsx)|*.xlsx";
             sfd.FileName = filetitle;
-            sfd.InitialDirectory = "C:\\Users\\" + Main.actualuser + "\\Documents";
+            sfd.InitialDirectory =  Main.actualuser ;
 
 
             if (sfd.ShowDialog() == DialogResult.OK)
@@ -3790,7 +3790,7 @@ namespace Presentation
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Documento de Excel (*.xlsx)|*.xlsx";
             sfd.FileName = filetitle;
-            sfd.InitialDirectory = "C:\\Users\\" + Main.actualuser + "\\Documents";
+            sfd.InitialDirectory = Main.actualuser ;
 
 
             if (sfd.ShowDialog() == DialogResult.OK)
@@ -3939,7 +3939,7 @@ namespace Presentation
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Documento de Excel (*.xlsx)|*.xlsx";
             sfd.FileName = filetitle;
-            sfd.InitialDirectory = "C:\\Users\\" + Main.actualuser + "\\Documents";
+            sfd.InitialDirectory =  Main.actualuser;
 
 
             if (sfd.ShowDialog() == DialogResult.OK)

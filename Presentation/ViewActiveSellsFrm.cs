@@ -78,9 +78,9 @@ namespace Presentation
                 // SavedSellClientData 9-11-2020 15_06_23
                 string datetime = row.Cells[1].Value.ToString();
                 string id = row.Cells[0].Value.ToString();
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
+                string path =  Main.actualuser + "\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
                 Console.WriteLine(path);
-                string path1 = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
+                string path1 =  Main.actualuser + "\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
                 Console.WriteLine(path1);
                 string jsonReadResult, jsonReadResult1;
 
@@ -221,8 +221,8 @@ namespace Presentation
             string id = Convert.ToString(activesellsdgv.CurrentRow.Cells[0].Value);
 
 
-            string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
-            string path1 = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
+            string path = Main.actualuser + "\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
+            string path1 =  Main.actualuser + "\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
 
 
             if (!main.DeleteSavedSell(id))
@@ -276,8 +276,8 @@ namespace Presentation
                 string id = Convert.ToString(activesellsdgv.CurrentRow.Cells[0].Value);
 
 
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
-                string path1 = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
+                string path =  Main.actualuser + "\\TPVFiles\\" + "SavedSellClientData " + datetime + ".txt";
+                string path1 =  Main.actualuser + "\\TPVFiles\\" + "SavedSellProducts " + datetime + ".json";
 
                 DialogResult a;
                 a = MessageBox.Show("¿Desea eliminar la Venta Activa seleccionada?", "Autenticación", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);

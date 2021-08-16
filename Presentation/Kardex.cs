@@ -459,7 +459,7 @@ namespace Presentation
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Documento de Excel (*.xlsx)|*.xlsx";
             sfd.FileName = filetitle;
-            sfd.InitialDirectory = "C:\\Users\\" + Main.actualuser + "\\Documents";
+            sfd.InitialDirectory =  Main.actualuser;
 
 
             if (sfd.ShowDialog() == DialogResult.OK)

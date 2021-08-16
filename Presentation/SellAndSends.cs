@@ -179,7 +179,7 @@ namespace Presentation
 
                 string date = Convert.ToString(row.Cells[11].Value).Replace("/","").Replace(":","").Replace(" ","");
                 
-                string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" +"Ticket " + date +".pdf";
+                string path = Main.actualuser + "TPVFiles\\" +"Ticket " + date +".pdf";
 
                 Console.WriteLine(path);
 
@@ -213,7 +213,7 @@ namespace Presentation
 
 
 
-                    string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "Ticket " + date + ".pdf";
+                    string path = Main.actualuser + "\\TPVFiles\\" + "Ticket " + date + ".pdf";
 
                     Console.WriteLine(path);
 
@@ -266,7 +266,7 @@ namespace Presentation
                     string clientname = Convert.ToString(row.Cells[1].Value);
 
 
-                    string path = "C:\\Users\\" + Main.actualuser + "\\Documents\\TPVFiles\\" + "Ticket " + date + ".pdf";
+                    string path = Main.actualuser + "\\TPVFiles\\" + "Ticket " + date + ".pdf";
 
               
 
@@ -278,7 +278,7 @@ namespace Presentation
                     {
                         SaveFileDialog savepdf = new SaveFileDialog();
                         savepdf.FileName = clientname + " " + date2 + ".pdf";
-                        savepdf.InitialDirectory = "C:\\Users\\" + Main.actualuser + "\\Documents";
+                        savepdf.InitialDirectory =  Main.actualuser;
                         savepdf.Filter = "PDF (*.pdf)|*.pdf";
 
                         if (savepdf.ShowDialog() == DialogResult.OK)
